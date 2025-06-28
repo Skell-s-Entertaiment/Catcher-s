@@ -1,4 +1,5 @@
 # Catcher's - A FNAF Fangame
+![Catcher's Header.](/github/Header.png)
 _Catcher's is a video game based on the Five Nights at Freddy's franchise, being developed in PenguinMod, a modified version of Scratch and Turbowarp. It seeks to maximize the engine's potential and implement fundamental optimization concepts. It aims to be a fun game, not a horror game._
 # Synopsis
 _It's your first night at "Tacos el Catcher" as a night guard. You'll have to complete the shift if you want to receive your pay or lose your apartment. Be careful, many secrets await you inside the place!_
